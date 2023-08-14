@@ -10,3 +10,5 @@
 ## What is this?
 
 I started to learn Unity this summer about a week ago. This is a result of my learning. It is a Flappy Bird clone with RITchie the RIT Tiger. I don't plan on continuing work on this project so feel free to use this embed-game I have made! You will need to host all files on a Web-Based Server if you want to use it for your own site. Will not run locally without one. 
+
+⚠️ I am aware of a bug with Unity Embed causing RITchie (Tiger) to not load on startup. Playing a round will cause his sprite to load ⚠️
