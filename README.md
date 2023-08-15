@@ -1,10 +1,10 @@
 # FlappyTiger
 
-[Link to Embeded Player](https://ayersdecker.github.io/FlappyTiger-Embed/)
+[Link to Embeded Player 🎮](https://ayersdecker.github.io/FlappyTiger-Embed/)
 
 ![gameplay](https://github.com/ayersdecker/FlappyTiger-Embed/assets/69859630/f22ef5ef-5d9a-40c3-b0c3-0e1f6bec93c4)
 
-*150% Speed of Normal Gameplay*
+*Gameplay at Normal Speed*
 <hr>
 
 ## What is this?
